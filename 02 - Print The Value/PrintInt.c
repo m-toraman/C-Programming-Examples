@@ -2,7 +2,8 @@
 #include <conio.h>
 
 int main(){
-	printf("Hello World!");
+	int x=7;
+	printf("Variable Value = %d",x);
 	getch ();
 	return 0;
 }

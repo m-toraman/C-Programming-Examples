@@ -1,0 +1,1 @@
+This code prints the entered value of an integer variable to the screen in C programing.
